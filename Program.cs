@@ -15,4 +15,5 @@ else
 {
 int res = DelHunOne();
 Console.WriteLine(res);
+
 }
